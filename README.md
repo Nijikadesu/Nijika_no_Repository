@@ -1,2 +1,2 @@
 # Nijika_no_Repository
-=w=
+this is a demo for learning basic commands of git
